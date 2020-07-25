@@ -10,6 +10,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     nav: [
       { text: '简约记账', link: '/money/READEME' },
+      { text: '存图网站', link: '/epic/READEME' },
       { text: '前端三剑客', items: [
         { text: 'HTML', link: '/html/READEME' },
         { text: 'CSS', link: '/css/READEME' },
@@ -39,6 +40,7 @@ module.exports = {
           '/blog/15',
           '/blog/20',
           '/blog/21',
+          '/blog/22',
         ]
       },
       {
@@ -51,6 +53,7 @@ module.exports = {
           '/blog/19',
           '/blog/20',
           '/blog/21',
+          '/blog/22',
         ]
       },
       
@@ -59,6 +62,16 @@ module.exports = {
         collapsable: false,
         children: ['/money/1', '/money/2', '/money/3',
           '/money/4','/money/5',]
+      },
+      {
+        title: 'React 简约记账',
+        collapsable: false,
+        children: ['/money-1/1', '/money-1/2']
+      },
+      {
+        title: '存图网站笔记',
+        collapsable: false,
+        children: ['/epic/1', '/epic/2','/epic/3','/epic/4','/epic/5','/epic/6',]
       }
     ]
   }
