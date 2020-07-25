@@ -6,7 +6,7 @@ module.exports = {
     lineNumbers: true
   },
   themeConfig: {
-    search: false,
+    search: true,
     searchMaxSuggestions: 10,
     nav: [
       { text: '简约记账', link: '/money/READEME' },
