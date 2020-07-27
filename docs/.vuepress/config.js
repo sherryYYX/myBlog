@@ -54,7 +54,15 @@ module.exports = {
           '/blog/20',
           '/blog/21',
           '/blog/23',
+          '/blog/24',
 
+        ]
+      },
+      {
+        title: 'React 笔记',
+        collapsable: true,
+        children: [
+          '/blog/24',
         ]
       },
       
