@@ -54,7 +54,6 @@ module.exports = {
           '/blog/20',
           '/blog/21',
           '/blog/23',
-          '/blog/24',
 
         ]
       },
@@ -63,6 +62,7 @@ module.exports = {
         collapsable: true,
         children: [
           '/blog/24',
+          '/blog/25',
         ]
       },
       
