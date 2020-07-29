@@ -63,6 +63,7 @@ module.exports = {
         children: [
           '/blog/24',
           '/blog/25',
+          '/blog/26',
         ]
       },
       
