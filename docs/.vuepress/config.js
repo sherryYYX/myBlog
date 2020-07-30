@@ -64,6 +64,7 @@ module.exports = {
           '/blog/24',
           '/blog/25',
           '/blog/26',
+          '/blog/27',
         ]
       },
       
