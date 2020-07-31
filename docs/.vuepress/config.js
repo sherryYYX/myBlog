@@ -77,7 +77,7 @@ module.exports = {
       {
         title: 'React 简约记账',
         collapsable: false,
-        children: ['/money-1/1', '/money-1/2']
+        children: ['/money-1/1', '/money-1/2','/money-1/3','/money-1/4','/money-1/5']
       },
       {
         title: '存图网站笔记',
