@@ -10,6 +10,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     nav: [
       { text: '简约记账', link: '/money/READEME' },
+      { text: 'React 简约记账', link: '/money-1/READEME' },
       { text: '存图网站', link: '/epic/READEME' },
       { text: '前端三剑客', items: [
         { text: 'HTML', link: '/html/READEME' },
@@ -76,12 +77,12 @@ module.exports = {
       },
       {
         title: 'React 简约记账',
-        collapsable: false,
-        children: ['/money-1/1', '/money-1/2','/money-1/3','/money-1/4','/money-1/5']
+        collapsable: true,
+        children: ['/money-1/1', '/money-1/2','/money-1/3','/money-1/4','/money-1/5','/money-1/6']
       },
       {
         title: '存图网站笔记',
-        collapsable: false,
+        collapsable: true,
         children: ['/epic/1', '/epic/2','/epic/3','/epic/4','/epic/5','/epic/6',]
       }
     ]
