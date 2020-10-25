@@ -68,6 +68,13 @@ module.exports = {
           '/blog/27',
         ]
       },
+      {
+        title: 'vue3 造轮子笔记',
+        collapsable: true,
+        children: [
+          '/vue3/1',
+        ]
+      },
       
       {
         title: '简约记账笔记',
