@@ -42,6 +42,7 @@ module.exports = {
           '/blog/20',
           '/blog/21',
           '/blog/22',
+          '/blog/28',
         ]
       },
       {
