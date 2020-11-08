@@ -56,6 +56,7 @@ module.exports = {
           '/blog/20',
           '/blog/21',
           '/blog/23',
+          '/vue2/1'
 
         ]
       },
@@ -79,7 +80,7 @@ module.exports = {
       
       {
         title: '简约记账笔记',
-        collapsable: false,
+        collapsable: true,
         children: ['/money/1', '/money/2', '/money/3',
           '/money/4','/money/5',]
       },
