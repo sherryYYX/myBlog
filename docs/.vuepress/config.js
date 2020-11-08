@@ -75,6 +75,7 @@ module.exports = {
         collapsable: true,
         children: [
           '/vue3/1',
+          '/vue3/2'
         ]
       },
       
