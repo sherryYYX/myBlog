@@ -46,6 +46,13 @@ module.exports = {
         ]
       },
       {
+        title: 'ES6 语法',
+        collapsable: true,
+        children: [
+          '/javascript/1'
+        ]
+      },
+      {
         title: 'Vue 笔记',
         collapsable: true,
         children: [
