@@ -85,6 +85,8 @@ module.exports = {
           '/blog/27',
           '/blog/27',
           '/blog/29',
+          '/react/control',
+
         ]
       },
       {
