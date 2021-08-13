@@ -49,7 +49,8 @@ module.exports = {
         title: '常用方法、技巧',
         collapsable: true,
         children: [
-          '/skill/1'
+          '/skill/1',
+          '/skill/2'
         ]
       },
       {
