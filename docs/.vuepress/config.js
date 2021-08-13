@@ -2,10 +2,20 @@ module.exports = {
   base:'/myBlog/',
   title: '小王子的博客',
   description: '大家好，欢迎来到小王子的博客',
+  head:[
+    [
+      'link',
+      {
+        rel:'icon',
+        href:'/favicon.ico'
+      }
+    ]
+  ],
   markdown: {
     lineNumbers: true
   },
   themeConfig: {
+    logo:'/favorite.png',
     search: true,
     searchMaxSuggestions: 10,
     nav: [
