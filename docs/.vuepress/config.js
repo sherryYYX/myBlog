@@ -46,6 +46,13 @@ module.exports = {
         ]
       },
       {
+        title: '常用方法、技巧',
+        collapsable: true,
+        children: [
+          '/skill/1'
+        ]
+      },
+      {
         title: 'ES6 语法',
         collapsable: true,
         children: [
