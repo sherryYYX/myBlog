@@ -60,7 +60,9 @@ module.exports = {
         collapsable: true,
         children: [
           '/skill/1',
-          '/skill/2'
+          '/skill/2',
+          '/css/image-mask-layer.md'
+
         ]
       },
       {
