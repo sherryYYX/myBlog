@@ -61,8 +61,8 @@ module.exports = {
         children: [
           '/skill/1',
           '/skill/2',
-          '/css/image-mask-layer.md'
-
+          '/css/image-mask-layer.md',
+          '/css/slide-in-left.md',
         ]
       },
       {
