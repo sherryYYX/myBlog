@@ -56,6 +56,13 @@ module.exports = {
         ]
       },
       {
+        title: '环境搭配',
+        collapsable: true,
+        children: [
+          '/mac/frontend.md',
+        ]
+      },
+      {
         title: '常用方法、技巧',
         collapsable: true,
         children: [
