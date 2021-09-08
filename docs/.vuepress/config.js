@@ -60,6 +60,7 @@ module.exports = {
         collapsable: true,
         children: [
           '/mac/frontend.md',
+          '/mac/markdown.md',
         ]
       },
       {
