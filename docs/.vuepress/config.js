@@ -9,12 +9,24 @@ module.exports = {
         rel:'icon',
         href:'/favicon.ico'
       }
+      
+    ],
+    [
+      'link',
+      {
+        rel:'stylesheet',
+        href:'/css/index.css'
+      }
+      
     ]
   ],
   markdown: {
     lineNumbers: true
   },
   themeConfig: {
+    mdEnhance: {
+      mermaid: true,
+    },
     logo:'/favorite.png',
     search: true,
     searchMaxSuggestions: 10,
@@ -134,5 +146,13 @@ module.exports = {
         children: ['/epic/1', '/epic/2','/epic/3','/epic/4','/epic/5','/epic/6',]
       }
     ]
+  },
+  plugins: {
+    
+      'mermaidjs':{},
+      
+      '@vuepress/plugin-medium-zoom':{}
+  
+  
   }
 }
