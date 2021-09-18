@@ -83,6 +83,7 @@ module.exports = {
           '/skill/2',
           '/css/image-mask-layer.md',
           '/css/slide-in-left.md',
+          '/skill/5',
         ]
       },
       {
